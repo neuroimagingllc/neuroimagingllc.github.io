@@ -30,7 +30,7 @@ tagline: Creator of the iStrokeMD App
   <div class="span8">
     <div class="row-fluid">
       <div class="span12">
-        <p>iStrokeMD is an application that allows to calculate the probability of recanalization in acute ischemic stroke patients, with no treatment, IV tPA and endovascular therapy, considering a number of clinical and CTA imaging predictor variables. This product is for research use only.</p>
+        <p>iStrokeMD is an application that allows to calculate the probability of recanalization in acute ischemic stroke patients, with no treatment, IV tPA and endovascular therapy, considering a number of clinical and CTA imaging predictor variables. This product is for research and educational use only.</p>
       </div>
     </div>
 
