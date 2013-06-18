@@ -5,6 +5,7 @@ tagline: Creator of the iStrokeMD App
 ---
 {% include JB/setup %}
 
+
 <style type="text/css">
 .logo-img {
     -webkit-border-radius: 10px;
